@@ -6,7 +6,7 @@ export const EventBanner = () => {
         <div className={styles.event__banner}>
             <div className={styles.content}>
                 <h1>
-                The TEIA community has moved to teia.art; Please update your bookmarks and Twitter profiles!  <a className={styles.desktop__link} href="https://blog.teia.art/blog/teia-art-launch-announcement">Learn more</a>
+                The TEIA community has moved to teia.art - hicetnunc.art will redirect to crzypatchworks hicetnunc.xyz by the end of this month.  <a className={styles.desktop__link} href="https://blog.teia.art/blog/teia-art-launch-announcement">Learn more</a>
                 </h1>
                 <a href="https://teia.art/" className={styles.content__button}>
                     teia.art
